@@ -17,5 +17,6 @@
 
 -   git branch : Kiểm tra các nhánh đang có trong dự án
 -   git checkout -b body-style : Tạo ra 1 branch mới
+-   git checkout main : Quay trở lại branch main
 
--   git restore --staged index2.css => Đưa thư mục lại trạng thái đang làm việc
+-   git restore --staged style2.css => Đưa thư mục lại trạng thái đang làm việc
