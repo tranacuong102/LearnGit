@@ -28,3 +28,6 @@
 -   git push => Đưa các commit lên repo trên git
 
 ### Xử lý khi trên repo có sự thay đổi mà ở local không biết
+
+-   Trên Repo file index.html thay đổi từ NEW APP
+-   Dưới local sửa thành APP NEW
