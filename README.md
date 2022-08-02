@@ -25,7 +25,8 @@
 
 -   git checkout id_commit: Đưa sourch code về trạng thái trước khi commit
 
--   git push => Đưa các commit lên repo trên git
+-   git push => Đồng bộ từ local với repo
+-   git pull => Đồng bộ từ repo về local
 
 ### Xử lý khi trên repo có sự thay đổi mà ở local không biết
 
