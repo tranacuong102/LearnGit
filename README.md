@@ -20,3 +20,7 @@
 -   git checkout main : Quay trở lại branch main
 
 -   git restore --staged style2.css => Đưa thư mục lại trạng thái đang làm việc
+
+-   git merge body-style => Đưa các commit từ body-style vào branch main
+
+-   git checkout id_commit: Đưa sourch code về trạng thái trước khi commit
