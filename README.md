@@ -24,3 +24,7 @@
 -   git merge body-style => Đưa các commit từ body-style vào branch main
 
 -   git checkout id_commit: Đưa sourch code về trạng thái trước khi commit
+
+-   git push => Đưa các commit lên repo trên git
+
+### Xử lý khi trên repo có sự thay đổi mà ở local không biết
